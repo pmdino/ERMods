@@ -1,0 +1,44 @@
+[2023-01-09 20:25:03.667] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2023-01-09 20:25:03.667] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2023-01-09 20:25:03.667] [modengine] [info] Main thread ID: 27412
+[2023-01-09 20:25:03.670] [modengine] [info] Enabling extension base
+[2023-01-09 20:25:03.670] [modengine] [info] Enabled extension base
+[2023-01-09 20:25:03.670] [modengine] [info] Enabling extension mod_loader
+[2023-01-09 20:25:03.670] [modengine] [info] Installing mod location randomizer
+[2023-01-09 20:25:03.670] [modengine] [info] Resolved mod path to C:\Users\pmdin\Desktop\ModEngine-2.0.0-preview3-win64\randomizer
+[2023-01-09 20:25:03.670] [modengine] [info] Enabled extension mod_loader
+[2023-01-09 20:25:03.751] [modengine] [info] Applied 3 hooks
+[2023-01-09 20:25:03.752] [modengine] [info] Starting worker thread
+[2023-01-09 20:26:11.352] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2023-01-09 20:26:11.352] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2023-01-09 20:26:11.352] [modengine] [info] Main thread ID: 24392
+[2023-01-09 20:26:11.356] [modengine] [info] Enabling extension base
+[2023-01-09 20:26:11.356] [modengine] [info] Enabled extension base
+[2023-01-09 20:26:11.356] [modengine] [info] Enabling extension mod_loader
+[2023-01-09 20:26:11.356] [modengine] [info] Installing mod location randomizer
+[2023-01-09 20:26:11.356] [modengine] [info] Resolved mod path to C:\Users\pmdin\Desktop\ModEngine-2.0.0-preview3-win64\randomizer
+[2023-01-09 20:26:11.356] [modengine] [info] Enabled extension mod_loader
+[2023-01-09 20:26:11.438] [modengine] [info] Applied 3 hooks
+[2023-01-09 20:26:11.440] [modengine] [info] Starting worker thread
+[2023-01-09 21:25:56.540] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2023-01-09 21:25:56.541] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2023-01-09 21:25:56.541] [modengine] [info] Main thread ID: 27876
+[2023-01-09 21:25:56.543] [modengine] [info] Enabling extension base
+[2023-01-09 21:25:56.543] [modengine] [info] Enabled extension base
+[2023-01-09 21:25:56.543] [modengine] [info] Enabling extension mod_loader
+[2023-01-09 21:25:56.543] [modengine] [info] Installing mod location randomizer
+[2023-01-09 21:25:56.543] [modengine] [info] Resolved mod path to C:\Users\pmdin\Desktop\ModEngine-2.0.0-preview3-win64\randomizer
+[2023-01-09 21:25:56.543] [modengine] [info] Enabled extension mod_loader
+[2023-01-09 21:25:56.638] [modengine] [info] Applied 3 hooks
+[2023-01-09 21:25:56.639] [modengine] [info] Starting worker thread
+[2023-01-09 21:53:19.003] [modengine] [info] ModEngine version 2.0.0-preview3-2144572dce7257d2cc477db78036e70dcd136b5a initializing for Elden Ring
+[2023-01-09 21:53:19.003] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2023-01-09 21:53:19.003] [modengine] [info] Main thread ID: 15844
+[2023-01-09 21:53:19.005] [modengine] [info] Enabling extension base
+[2023-01-09 21:53:19.005] [modengine] [info] Enabled extension base
+[2023-01-09 21:53:19.005] [modengine] [info] Enabling extension mod_loader
+[2023-01-09 21:53:19.005] [modengine] [info] Installing mod location randomizer
+[2023-01-09 21:53:19.005] [modengine] [info] Resolved mod path to C:\Users\pmdin\Desktop\ModEngine-2.0.0-preview3-win64\randomizer
+[2023-01-09 21:53:19.005] [modengine] [info] Enabled extension mod_loader
+[2023-01-09 21:53:19.084] [modengine] [info] Applied 3 hooks
+[2023-01-09 21:53:19.085] [modengine] [info] Starting worker thread
